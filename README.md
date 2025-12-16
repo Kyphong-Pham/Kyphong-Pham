@@ -4,7 +4,6 @@
 My name is Kyphong. I'm from Ottawa, Canada, and I attend St. Mother Teresa High School. I am currently taking a computer programming class. <br>
 Nationality: Canadian <br>
 Hobbies: Volleyball, Running, Math, Cooking and Gamimg <br>
-Fun fact: I love red Pandas <br>
 </div>
 
 <div>
